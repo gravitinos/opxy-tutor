@@ -2,11 +2,11 @@
 
 ## Knowledge
 
-- [Manual: OP-XY Full Guide — Teenage Engineering](./manuals/op-xy-guide.pdf)
-  Official user guide (local copy, from teenage.engineering). Use for: anything OP-XY — sequencer, tracks, brains/engines, punch-in FX, sampling, MIDI.
-- [Manual: SP-404MKII Reference Manual v5.50 — Roland](./manuals/sp-404mk2-reference-manual-v5.50.pdf)
-  Official reference manual for firmware 5.x (local copy, from roland.com). Use for: sampling, resampling, bus FX, DJ mode, pattern sequencing, import/export.
-- [Cheat sheet: SP-404MK2 Shortcut List — Roland](./manuals/sp-404mk2-shortcut-list.pdf)
+- [Manual: OP-XY Guide — Teenage Engineering](./manuals/op-xy-guide.md) ([PDF](./manuals/op-xy-guide.pdf))
+  Official user guide (markdown converted from the official web guide; PDF is images-only). Use for: anything OP-XY — sequencer, tracks, engines, punch-in FX, sampling, MIDI.
+- [Manual: SP-404MKII Reference Manual v5.50 — Roland](./manuals/sp-404mk2-reference-manual-v5.50.md) ([PDF](./manuals/sp-404mk2-reference-manual-v5.50.pdf))
+  Official reference manual for firmware 5.x (markdown extraction with PDF page markers). Use for: sampling, resampling, bus FX, DJ mode, pattern sequencing, import/export. PDF for diagrams.
+- [Cheat sheet: SP-404MK2 Shortcut List — Roland](./manuals/sp-404mk2-shortcut-list.md) ([PDF](./manuals/sp-404mk2-shortcut-list.pdf))
   Official one-stop shortcut/button-combo list. Use for: quick reference during hands-on practice.
 - [OP-XY guide (web, always current) — teenage.engineering](https://teenage.engineering/guides/op-xy)
   Online version of the guide, updated with firmware releases. Use for: checking whether a local-PDF detail has changed in newer firmware.
